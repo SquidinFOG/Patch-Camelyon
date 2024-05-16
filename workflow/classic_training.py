@@ -17,19 +17,6 @@ RELEASE
     Name    : workflow/classic_training.py
     Release : 0.0.2
     
-TODO
-====
-    - Add support for other models (LSTM, RCNN ?)
-    - Add model saving
-    - Add model loading
-    - Add maybe other metrics
-    - Add scheduler
-    - Run the script on the CC
-    - Verifie that the usage of GPU is well implemented
-    - implement AMP
-    - Apply this for the cross-validation training
-    - Add Data Augmentation
-
 """
 
 """
