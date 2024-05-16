@@ -1,0 +1,15 @@
+# MODEL TRAINING PARAMETERS
+model:
+  name: 'resnet-18'
+  pretrained: False
+
+training:
+  batch_size: 64
+  num_workers: 35
+  epochs: 30
+  learning_rate: 0.0001
+  patience: 10
+  device: cuda
+  AMP: True
+
+

@@ -1,0 +1,7 @@
+This repo is a resnet-18 implementation with AMP for binary classification of metastatic tissue from PCAM dataset.
+
+TODO: 
+add resnet-34, 50,101 ... 
+explore various hyperparameter with optuna
+add tensorboard to see bottleneck in the implementation
+
